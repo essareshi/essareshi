@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Essa | عِيسَى
 ### 🚀 Engineer | Tech Enthusiast 
-![](https://komarev.com/ghpvc/?username=essareshi&color=3a2d28&style=plastic&label=Mewers)
+![](https://komarev.com/ghpvc/?username=essareshi&color=red&style=plastic&label=Mewers)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/essareshi/)  
 
