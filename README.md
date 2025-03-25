@@ -1,13 +1,9 @@
 # 👋 Hi, I’m Essa | عِيسَى
 ### 🚀 Engineer | Tech Enthusiast 
-![](https://komarev.com/ghpvc/?username=essareshi&color=red&style=plastic&label=Mewers)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/essareshi/)  
 
 # 💫 About Me:
 🔭 I’m currently working on IOT<br>
 🌱 I’m currently learning React <br>
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/essareshi) 
@@ -24,3 +20,5 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=essareshi&icon=5&color=4)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=essareshi&color=red&style=plastic&label=Mewers)
+
