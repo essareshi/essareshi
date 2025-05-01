@@ -1,4 +1,4 @@
-# <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWtnYmExaW40NWp6amd1MGJyZHBrZnFoMDM4d3pwNHo4cms0dXpoYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/71tUqmZ7ro3zG/giphy.gif" width=50px> Hi, I’m Essa | عِيسَى
+# <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWtnYmExaW40NWp6amd1MGJyZHBrZnFoMDM4d3pwNHo4cms0dXpoYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/71tUqmZ7ro3zG/giphy.gif" width=50px style="vertical-align:middle"> Hi, I’m Essa | عِيسَى
 ### 🚀 Engineer | Tech Enthusiast 
 
 # 💫 About Me:
