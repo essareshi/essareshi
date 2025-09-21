@@ -1,5 +1,5 @@
-Hi, I’m Essa | عِيسَى
-### Engineer | Tech Enthusiast 
+# Hi, I’m Essa | عِيسَى
+Engineer | Tech Enthusiast 
 
 # About Me:
  I strive to innovate efficient solutions to modern problems through clean, scalable, well-documented code along with complementing hardware. Currently, I'm deep-diving into low level systems and IOT. 
