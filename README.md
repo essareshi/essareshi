@@ -1,11 +1,10 @@
-# <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2todDZzOWlscng0MW1veDg2bGFld2cwazcxN3QxeXp5emQ2cHJ3cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTiTnjEFmivkL0cfDi/giphy.gif" width=42px style="vertical-align:middle"> Hi, I’m Essa | عِيسَى
-### 🚀 Engineer | Tech Enthusiast 
+Hi, I’m Essa | عِيسَى
+### Engineer | Tech Enthusiast 
 
-# 💫 About Me:
-🔭 I’m currently working on IOT<br>
-🌱 I’m currently learning React <br>
+# About Me:
+ I strive to innovate efficient solutions to modern problems through clean, scalable, well-documented code along with complementing hardware. Currently, I'm deep-diving into low level systems and IOT. 
 
-## 🌐 Socials:
+## 🌐 Contact me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/essareshi) 
 
 # 💻 Tech Stack:
@@ -13,5 +12,5 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=essareshi&icon=5&color=4)](https://visitcount.itsvg.in)
-![](https://komarev.com/ghpvc/?username=essareshi&color=red&style=plastic&label=Mewers)
+![](https://komarev.com/ghpvc/?username=essareshi&color=red&style=plastic&label=interested)
 
